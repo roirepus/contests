@@ -1,3 +1,4 @@
+
 // Problem: B. Equal XOR
 // Contest: Codeforces Round 934 (Div. 2)
 // Judge: Codeforces
